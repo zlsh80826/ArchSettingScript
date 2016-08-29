@@ -1,2 +1,2 @@
 # ArchSettingScript
-Some script for setting
+Some script for setting and install

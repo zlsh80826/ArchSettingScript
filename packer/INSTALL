@@ -1,0 +1,6 @@
+mkdir packer
+cd packer
+wget --content-disposition 'https://aur.archlinux.org/cgit/aur.git/plain/PKGBUILD?h=packer'
+makepkg -s --install
+cd ..
+rm -r packer
